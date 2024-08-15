@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="enter_text">Please Enter Your Date of Birth </string>
+    <string name="made_with_by_areeba">Made with ❤️ by Areeba</string>
+    <string name="birthmonth">BirthMonth</string>
+    <string name="birthyear">BirthYear</string>
+    <string name="enter_birth_month">Enter Birth month</string>
+    <string name="enter_birth_year">Enter Birth year</string>
+    <string name="birthdate">BirthDate</string>
+    <string name="calculate_age">Calculate Age</string>
+    <string name="enter_birth_date">Enter Birth date</string>
+</resources>
